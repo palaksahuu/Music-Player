@@ -28,32 +28,6 @@ The project focuses on frontend development and basic JavaScript functionality f
 
 ---
 
-## Project Structure
-
-```
-spotify-clone/
-│
-├── index.html        Main HTML file
-├── style.css         Styling for the music player
-├── script.js         JavaScript logic for music functionality
-│
-├── songs/            Folder containing audio files
-│   ├── 1.mp3
-│   ├── 2.mp3
-│   └── ...
-│
-├── covers/           Song cover images
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   └── ...
-│
-├── logo.png          Spotify logo image
-├── bg.jpg            Background image
-└── playing.gif       Animation for playing indicator
-```
-
----
-
 ## How the Application Works
 
 The application uses the HTML Audio API to play and control music files.
